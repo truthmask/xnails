@@ -379,7 +379,7 @@ nav ul li a:hover::after{
 
 
 /* About */
-section #about{
+section#about{
     overflow: hidden;
 }
 
